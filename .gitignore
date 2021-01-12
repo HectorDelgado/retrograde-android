@@ -105,3 +105,6 @@ lint/tmp/
 
 # Android Profiling
 *.hprof
+
+# Secrets
+owinfo.properties
